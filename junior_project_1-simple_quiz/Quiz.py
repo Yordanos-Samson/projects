@@ -11,7 +11,7 @@ elif playing== "yes":
     answer=input("what does CPU stands for?\n").lower()
     if answer=="central processing unit":
         score=score+1
-        print ("correct")
+        print ("correct,yes")
     else:
          print("Incorrect answer")
 
